@@ -19,7 +19,7 @@ public class Matmain {
         int result1 = first % second; //% выводит остаток при делении
         System.out.println("Остаток при делении равен: " + result1);
         System.out.println("Результат после доп манипуляций: " + result);
-        System.out.println("Вот как-то так");
+        System.out.println("Вот как-то так!");
 
     }
 }
