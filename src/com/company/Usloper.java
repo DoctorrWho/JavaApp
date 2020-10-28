@@ -16,7 +16,7 @@ public class Usloper {
             System.out.print("Введенное число ,больше либо равно " + second);
             System.out.print("\n");
         } else if(first == 45) {
-            System.out.println("Введенное число: 45");
+            System.out.println("Введенное число: 45!");
         } else{
             System.out.println("Введенное число, не равно " + second);
         }
