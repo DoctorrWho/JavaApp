@@ -146,11 +146,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cikl">
+  <component name="RunManager" selected="Application.ForDima">
     <configuration name="Cikl" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Cikl" />
       <module name="JavaApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForDima" />
+      <module name="JavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -158,23 +174,38 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Matmain" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Matmain" />
       <module name="JavaApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Usloper" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Usloper" />
       <module name="JavaApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.Matmain" />
       <item itemvalue="Application.Usloper" />
       <item itemvalue="Application.Cikl" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ForDima" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForDima" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
